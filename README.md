@@ -1,29 +1,24 @@
-# vue-todo-app
+# 📝 Vue Todo App
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple and responsive todo list application built with Vue 3.  
+Users can add, delete, edit and mark tasks as completed.  
+All tasks are stored in local storage, so they persist between sessions.
 
-## Recommended IDE Setup
+🔗 **Live Demo:** (https://pasha1932.github.io/vue-todo-app/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## ✨ Features
 
-## Customize configuration
+- Add new todo items
+- Mark items as completed
+- Edit tasks
+- Delete tasks
+- Deleting completed tasks
+- Toggle tasks
+- Local storage support
+- Responsive UI
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 📦 Built With
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- Vue (version 3)
+- JavaScript
+- HTML & SCSS
